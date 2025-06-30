@@ -1,0 +1,88 @@
+
+p {
+    color: #999999;
+}
+.white li a {
+    color: white;
+}
+body {
+    background: #000000;
+    color: white;
+}
+.box  {
+    border: 1px solid #262626
+}
+.box p {
+    color: #999999;
+}
+.mail , .pox {
+    background: #141414;
+}
+.social svg {
+    background-color: none;
+    padding: 9px;
+    border-radius: 100px;
+}
+.achivements .card,
+.clients .card,
+.values,
+.val, .search {
+    background: none;
+    /* border: 1px solid #262626; */
+    box-shadow: 0px 0px 0px 8px #1c1c1c;
+}
+.navigation .card-header  {
+    border: none;
+    border-left: 1px solid #703BF7;
+}
+.navigation .card {
+    background: none;
+    border-left: #703BF7;
+}
+.navigation .card-body {
+    border: 1px solid;
+    border-image-source: linear-gradient(0deg, #262626, #262626), linear-gradient(117.89deg, #703BF7 0%, rgba(112, 59, 247, 0) 24%);
+    background: linear-gradient(120.79deg, #703BF7 -10%, rgba(112, 59, 247, 0) 13.65%);
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.dream-section {
+    background: linear-gradient(95.93deg, #262626 -26.82%, rgba(38, 38, 38, 0) 40.46%);
+}
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
+.left {
+    background-image: url(Abstract\ Design\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.b1 {
+    background: #1A1A1A;
+    border: 1px solid #262626;
+
+}
+.service-investment .card {
+    background: #131313;
+
+}
+.worldpossibilities .card  {
+    background:none;
+    border: 1px solid #262626;
+}
+.form-group input, select , textarea{
+    background: #1A1A1A;
+    border: 1px solid #262626;
+}
+.keyfeatures p{
+    background: linear-gradient(90deg, #1A1A1A 0%, rgba(26, 26, 26, 0) 100%);
+    border-left: 1px solid #703BF7;
+}
+.search-bar .search-container button:hover{
+    background-color: #000000;
+}
